@@ -1,0 +1,11 @@
+export const HOME_ROUTE = '/home';
+export const CABINET_ROUTE = '/cabinet';
+export const PROFILE_ROUTE = '/cabinet/profile';
+export const VERIFICATION_ROUTE = '/cabinet/verification';
+export const CASSA_ROUTE = '/cassa';
+export const PUSH_MONEY_ROUTE = '/cassa/push';
+export const PULL_MONEY_ROUTE = '/cassa/pull';
+export const PAYHISTORY_ROUTE = '/cassa/history';
+export const ADMIN_ROUTE = '/admin';
+export const USERS_ROUTE = '/admin/users';
+export const PULLS_MONEY_ROUTE = '/admin/pulls';
